@@ -53,5 +53,5 @@ print autocorrect(user_word)
 #http://en.wikipedia.org/wiki/Levenshtein_distance #I know this shouldn't technically be a source but I used it to get an idea of what Levenshtein is 
 #http://rosettacode.org/wiki/Levenshtein_distance
 #Mr. Hickey 
-#Classmates 
+
 
